@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Home Kelompok 3</title>
-	<script src="parallax.js"></script>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="parallaxxxx.js"></script>
+	<link rel="stylesheet" type="text/css" href="styleeee.css">
 </head>
 <body>
 
@@ -15,7 +15,7 @@ session_start();
 if($_SESSION['status']!="login")
 {
 	header("location:../index.php?pesan=belum_login");
-
+?>
 	<div class="container">
 		<h1 class="neon" data-text="Home Berita">Halaman Admin</h1>
 
