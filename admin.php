@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Home Kelompok 3</title>
+	<title>Home Kelompok xx</title>
 	<script src="parallaxxxx.js"></script>
 	<link rel="stylesheet" type="text/css" href="styleeee.css">
 </head>
