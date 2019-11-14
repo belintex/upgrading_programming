@@ -8,6 +8,6 @@ echo "Alfikri";
 echo "By";
 echo "ipaannn";
 echo "Budi";
+echo "bud";
 echo "alfikri";
-
 ?>
