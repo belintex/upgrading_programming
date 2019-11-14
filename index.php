@@ -11,4 +11,6 @@ echo "bud";
 echo "yanda";
 echo "topan";
 echo "topan";
+echo "ipan";
+echo "tpan";
 ?>
