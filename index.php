@@ -6,13 +6,9 @@
 echo "xx==Mulai==xx";
 echo "tpan";
 echo "Alfikri";
-echo "topan";
 echo "bud";
 echo "yanda";
-echo "topan";
-echo "topan";
 echo "ipan";
-echo "tpan";
 echo "By";
 echo "topaan";
 ?>
