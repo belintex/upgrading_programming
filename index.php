@@ -4,6 +4,7 @@
 // kalah 3 terakhir pushup 10
 
 echo "xx==Mulai==xx";
+echo "tpan";
 echo "Alfikri";
 
 echo "Fajar";
@@ -12,6 +13,8 @@ echo "bud";
 echo "yanda";
 echo "ipan";
 echo "By";
+
 echo "fajar";
+
 
 ?>
