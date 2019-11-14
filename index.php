@@ -1,6 +1,6 @@
 <?php 
 
-echo "==xxNamaxx==";
-echo "ipan";
 
+echo "Alfikri";
+echo "ipaannn";
 ?>
