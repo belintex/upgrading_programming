@@ -1,3 +1,4 @@
 <?php 
-echo "Buat Nama Anda dibawah";
+echo "xx==Mulai==xx";
+echo "DIsini Nama";
 ?>
