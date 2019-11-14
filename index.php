@@ -9,6 +9,8 @@ echo "Alfikri";
 echo "Fajar";
 
 echo "bud";
-echo "yanda"
+echo "yanda";
+echo "ipan";
+echo "By";
 
 ?>
