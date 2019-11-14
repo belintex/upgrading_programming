@@ -1,9 +1,5 @@
 <?php 
 
-echo "xxNamaxx";
-echo "lemah";
-echo "topan";
-echo "irpan";
-echo "TOPPSSS";
-echo "Alfikri";
+echo "==xxNamaxx==";
+
 ?>
