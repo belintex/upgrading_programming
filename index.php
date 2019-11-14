@@ -6,5 +6,7 @@
 echo "xx==Mulai==xx";
 echo "Alfikri";
 echo "bud";
+echo "yanda";
 echo "ipan";
+
 ?>
