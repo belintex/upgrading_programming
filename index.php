@@ -1,12 +1,11 @@
 <?php 
+//tugas nya buat branch masing2
+//lalu pindah ke branch yang telah di buat
+//ambil data dari branch master ke branch masing2
+//tambahkan nama di codingan
+//lalu push di branch masing2 dan branch master
+//dah itu aja
+//harus selesai hari ini
 echo "xx==Mulai==xx";
 echo "Nama";
-echo "bahagia";
-echo "ubah";
-echo "inggi";
-echo "Irfan cinta rosyi";
-echo "budi ni";
-echo "tiah inii";
-echo "apaaaaaa";
-echo "setiap anak mempunyai bintang yang bersinar di waktu berbeda dengan anak lainnya, inggi ni"
 ?>
