@@ -1,8 +1,4 @@
 <?php 
-echo "xx==Mulai==xx";
-echo "Nama";
-echo "bahagia";
-echo "ubah";
-echo "inggi";
-echo "Irfan cinta rosyi";
+echo "Setiap anak punya bintang yang bersinar di waktu yang tidak sama dengan dengan anak lainnya <br> By: INGGI"
+
 ?>
