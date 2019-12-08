@@ -13,4 +13,5 @@ echo "Inggi Cantik";
 echo "Syintia Adriani";
 echo "koor tercinta";
 echo "ganteng.com";
+echo "Robi @dja yanx baek plus sellallu raj1n menabung";
 ?>
