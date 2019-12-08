@@ -14,5 +14,6 @@ echo "Syintia Adriani";
 echo "koor tercinta";
 echo "ganteng.com";
 echo "robi";
+echo "buds tampan";
 echo "Revo se nyo";
 ?>
