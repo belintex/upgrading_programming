@@ -9,5 +9,7 @@
 echo "xx==Mulai==xx";
 echo "Mutiah Risky";
 echo "Fajar Maulana";
-echo "Inggi Cantik"
+echo "Inggi Cantik";
+echo "Syintia Adriani";
+
 ?>
