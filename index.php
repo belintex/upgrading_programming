@@ -16,4 +16,5 @@ echo "ganteng.com";
 echo "robi";
 echo "buds tampan";
 echo "Revo se nyo";
+echo "yanda";
 ?>
